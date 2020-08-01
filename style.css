@@ -1,0 +1,49 @@
+* {
+    background-color: rgb(223, 86, 86); 
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    padding: 10px;
+    margin: 0px;
+    background-color: rgb(223, 86, 86);
+}
+
+#tomato-image {
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.button-background button {
+    background-color: rgb(91, 91, 156);
+    border: white;
+    width: 190px;
+    margin-bottom: 2px;
+}
+
+.button-background{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(223, 86, 86);    
+}
+
+.clock, span{
+    margin: auto;
+    font-family: 'Fredoka One', cursive;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+}
+
+#start, #pause, #restart{
+    margin-bottom: 20px;
+}
+
